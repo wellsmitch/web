@@ -1,0 +1,1 @@
+System.register(["./index-legacy-B0625Nyx.js"],(function(e,t){"use strict";var n;return{setters:[e=>{n=e._}],execute:function(){e("default",n({},[["render",function(e,t){return Vue.openBlock(),Vue.createElementBlock("h2",null,"模块建设中。。。")}]]))}}}));
